@@ -346,7 +346,7 @@ header li:last-child a:hover {
   margin: auto;
 }
 .special {
-  width: 12rem !important;
+  width: 5rem !important;
 }
 .ourteambox {
   flex-direction: column;
@@ -424,8 +424,7 @@ footer i {
   color: var(--color1);
 }
 footer span {
-  display: flex;
-  flex-direction: var(--direction2);
+  height: 4rem;
 }
 #subfooter2 {
   background-color: var(--color);
