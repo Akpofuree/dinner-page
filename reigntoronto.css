@@ -346,7 +346,7 @@ header li:last-child a:hover {
   margin: auto;
 }
 .special {
-  width: 1.5rem !important;
+  width: 3rem !important;
 }
 .ourteambox {
   flex-direction: column;
